@@ -1,1 +1,3 @@
-#  mmi primer script.py 
+#  mmi primer script.py
+print("hola,git hub")
+
